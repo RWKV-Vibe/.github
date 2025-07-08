@@ -6,6 +6,6 @@ We aim to provide:
 - Simple and intuitive tools for training and inference
 - Various optimizations tailored for RWKV models
 - Comprehensive guides and tutorials for using RWKV
--A curated list of awesome RWKV projects
+- A curated list of awesome RWKV projects
 
 We warmly welcome everyone to join us and contribute to the development of the RWKV community. You're also welcome to donate your RWKV-related projects to the RWKV-Vibe organization — you'll still retain full ownership and maintainership of your repositories.
